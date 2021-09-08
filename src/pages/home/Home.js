@@ -1,9 +1,11 @@
 import "./Home.css";
 
+import FeaturedInfo from "../../components/featuredInfo/FeaturedInfo";
+
 const Home = () => {
   return (
     <div className='home'>
-      <h2>Hello</h2>
+      <FeaturedInfo />
     </div>
   );
 };
