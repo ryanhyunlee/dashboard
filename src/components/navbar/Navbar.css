@@ -16,6 +16,7 @@
 }
 
 .logo {
+  letter-spacing: 0.25em;
   font-weight: bold;
   font-size: 30px;
   color: darkblue;
